@@ -1,10 +1,10 @@
 # Site settings
-title: An_Jiqing Blog
-SEOTitle: 安叔叔的博客 | An_Jiqing Blog
+title: AJ Blog
+SEOTitle: 安叔叔的博客 | AJ Blog
 header-img: img/post-bg-desk.jpg
 email: coder_ajq@163.com
 description: "Every failure is leading towards success."
-keyword: "An_Jiqing, An_Jiqing Blog, 安叔叔的博客, anjiqing, 安吉庆, JAVA, Python, iOS, Apple, iPhone"
+keyword: "AnJiqing, AJ Blog, 安叔叔的博客, anjiqing, 安吉庆, JAVA, Python, iOS, Apple, iPhone"
 url: "http://anjiqing.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/anjiqing/anjiqing.github.io.git" # you code repository
